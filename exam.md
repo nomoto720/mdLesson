@@ -29,7 +29,7 @@
 今いる場所にあるfile1.txtの中身を確認するコマンドはどれか？
 1. echo file.txt
 1. cat file.txt
-1. cat "file.txt"
+1. cat -file.txt
 1. echo "file.txt"
 ## vimtutor問題
 #### (配点：10点 １問:2点)
@@ -215,6 +215,7 @@ int j = 8 + 2;
 1. int num = Math.max(5, 10);
 1. int num = math.max(5, 10);
 1. int num = 5&lt;
+### 問題35
 乱数をint rumに代入する命令文はどれか？
 1. int rum = new java.util.Scanner(System.in).nextInt();
 1. int rum = new java.util.Arrays.toString();
@@ -233,7 +234,7 @@ int j = 8 + 2;
 1. 2<x , x<5
 1. x==2<5
 ### 問題38
-次の式のうち、条件式として適切なものはどれか？
+次の式のうち、条件式として間違っているものはどれか？
 1. age !=30
 1. true
 1. b+5&lt;20
@@ -301,7 +302,7 @@ public class Test1{
 ```Test2.java
 public class Test2{
   public static void main(String[] args){
-    int[] scores ={2,3,4,5};
+    int[] scores ={1,2,3,4};
     int sum = scores[1]+scores[2]+scores[3]+scores[4];
     System.out.printf("合計は%d点",sum);
   }
