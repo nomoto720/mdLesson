@@ -149,33 +149,152 @@ box-sizing: border-box;について正しい記述はどれか？
 1. letter-lead
 1. letter-leading
 ### 問題25
-1.
-1.
-1.
-1.
+box-shadow:1px 2px 3px 4px #888;の4pxの値はどの値か？
+1. 左の向き
+1. 右の向き
+1. 広がり
+1. ぼかし
+### java問題
 ### 問題26
+-128から127の整数を格納するのに適した型はどれか？
+1. short
+1. int
+1. float
+1. byte
 ### 問題27
+少しあいまいでもよい小数点を格納するのに適した型はどれか？
+1. byte
+1. boolean
+1. double
+1. float
 ### 問題28
+javaでプログラムを開発するために必要なソフトはどれか？
+1. バイトコードとソースコード
+1. コンパイラとソースコード
+1. コンパイラとインタプリタ
+1. インタプリタとバイトコード
 ### 問題29
+次のソースコードで間違っているものはどれか？
+1. int a = 3;
+1. int a; 
+1. int = a;
+1. a = 3;
 ### 問題30
+'真'を格納するのに適した型はどれか？
+1. String
+1. boolean
+1. char
+1. true
 ### 問題31
+yが15になる演算はどれか？
+1. x==3; y=x*(2+3);
+1. x=3;  y=x*2+3;
+1. x=3;  y=x*(2+3);
+1. x=3;  x+=3; y=x*2+2; 
 ### 問題32
+次の演算で間違っているものはどれか？
+double d = 8.5/2;
+int i = 8.5/2;
+long l = 8 + 2L;
+int j = 8 + 2;
 ### 問題33
+改行して文字を表示する命令文はどれか？
+1. System.out.print("改行");
+1. System.out.printf("改行%d");
+1. System.out.println("改行");
+1. System.out.print("改行%n");
 ### 問題34
+5と10の数字を比較して大きい方の数値をint numに代入する命令文はどれか？
+1. int num = 5<10;
+1. int num = Math.max(5, 10);
+1. int num = math.max(5, 10);
+1. int num = 5<=10;
 ### 問題35
+乱数をint rumに代入する命令文はどれか？
+1. int rum = new java.util.Scanner(System.in).nextInt();
+1. int rum = new java.util.Arrays.toString();
+1. int rum = new java Random().nextInt();
+1. int rum = new java Random().nextLine();
 ### 問題36
+次の中で文法として間違っているものはどれか？
+1. double d = 2.0F;
+1. String s = 2+"人目";
+1. double d = true;
+1. short s = (byte)2;
 ### 問題37
+「xが5より小さく、かつ2より大きい」条件式はどれか？
+1. x<5 || 2<x
+1. x<5 && 2<x
+1. 2<x , x<5
+1. x==2<5
 ### 問題38
+次の式のうち、条件式として適切なものはどれか？
+1. age !=30
+1. true
+1. b+5<20
+1. isNumeric =true
 ### 問題39
+switch文の条件式として正しいものはどれか？
+1. switch(fortune == 1)
+1. switch(fortune)
+1. switch(fortune = 1)
+1. switch(fortune <= 1)
 ### 問題40
+swich文で処理を中断してswich文を抜けさせるときの指示は？
+1. else;
+1. stop;
+1. break;
+1. case;
 ### 問題41
+実行してから条件式を評価する制御構文はどれか？
+1. do-while構文
+1. if else構文
+1. switch文
+1. while構文
 ### 問題42
+for文の条件式として正しものはどれか？
+1. for(int i=0 ; i<10 ;i++)
+1. for(int i==0)
+1. for(i==0)
+1. for(i)
 ### 問題43
+1.
+1.
+1.
+1.
 ### 問題44
+1.
+1.
+1.
+1.
 ### 問題45
+1.
+1.
+1.
+1.
 ### 問題46
+1.
+1.
+1.
+1.
 ### 問題47
+1.
+1.
+1.
+1.
 ### 問題48
+1.
+1.
+1.
+1.
 ### 問題49
+1.
+1.
+1.
+1.
 ### 問題50
+1.
+1.
+1.
+1.
 
