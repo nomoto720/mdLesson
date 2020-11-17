@@ -303,10 +303,25 @@ public class Test2{
 
 ```
 ### 問題48
+次のソースコードを実行したときに実行例のようにするにはどうしたらいいか。
 
+```Test3.java
+public class Test3{
+  public static void main(String[] args){
+    int fortune = new java.util.Random().nextInt(3)+1;
+    switch(fortune){
+    case 1:
+      System.out.println("大吉");
+    case 2:
+      System.out.println("吉");
+    case 3:
+      System.out.println("凶");
+     }
+  }
+}
+```
+[実行例]
+小吉
 
-### 問題49
-
-### 問題50
-
-
+[実行例]
+吉
