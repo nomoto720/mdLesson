@@ -257,21 +257,25 @@ for文の条件式として正しものはどれか？
 1. for(i==0)
 1. for(i)
 ### 問題43
-1.
-1.
-1.
-1.
+for文やwhile文を用いた繰り返しの途中で、今回の周だけを中断し次の周へ進む中断方法の文は？
+1. break 
+1. continue
+1. else
+1. do
 ### 問題44
-1.
-1.
-1.
-1.
+scores配列の要素数を表示方法として正しいものは？
+1. Arrays.toString(scores)
+1. scores.length
+1. scores[]
+1. int[]scores
 ### 問題45
-1.
-1.
-1.
-1.
+scores配列の3番目の要素を表示する方法として正しいものは？
+1. System.out.print(scores[3]);
+1. System.out.print(scores[2]);
+1. System.out.print(scores{3});
+1. System.out.print(scores{2});
 ### 問題46
+
 1.
 1.
 1.
