@@ -205,11 +205,10 @@ int j = 8 + 2;
 1. System.out.print("改行%n");
 ### 問題34
 5と10の数字を比較して大きい方の数値をint numに代入する命令文はどれか？
-1. int num = 5<10;
+1. int num = 5&lt;10;
 1. int num = Math.max(5, 10);
 1. int num = math.max(5, 10);
-1. int num = 5<=10;
-### 問題35
+1. int num = 5&lt;
 乱数をint rumに代入する命令文はどれか？
 1. int rum = new java.util.Scanner(System.in).nextInt();
 1. int rum = new java.util.Arrays.toString();
@@ -223,22 +222,22 @@ int j = 8 + 2;
 1. short s = (byte)2;
 ### 問題37
 「xが5より小さく、かつ2より大きい」条件式はどれか？
-1. x<5 || 2<x
-1. x<5 && 2<x
+1. x&lt;5 || 2<x
+1. x&lt;5 && 2<x
 1. 2<x , x<5
 1. x==2<5
 ### 問題38
 次の式のうち、条件式として適切なものはどれか？
 1. age !=30
 1. true
-1. b+5<20
+1. b+5&lt;20
 1. isNumeric =true
 ### 問題39
 switch文の条件式として正しいものはどれか？
 1. switch(fortune == 1)
 1. switch(fortune)
 1. switch(fortune = 1)
-1. switch(fortune <= 1)
+1. switch(fortune &lt;= 1)
 ### 問題40
 swich文で処理を中断してswich文を抜けさせるときの指示は？
 1. else;
