@@ -117,34 +117,37 @@ devというブランチの修正をmasterブランチに取り込むコマン�
 1. side 
 1. aside
 1. dsub
+### css問題
 ### 問題20
-次のUI部品を表示するためのタグはどれか？（画像はChromeでの表示です）
-![画像](https://joytas.net/202010/htmllesson/img/ex39.png)
-1. <fieldset>
-1. <select>
-1. <input type="text">
-1. <textarea>
-### html問題
+要素の下に線を引くことができるプロパティはどれか？
+1. border-line
+1. border-down
+1. border-bottom
+1. border-below
 ### 問題21
-1.
-1.
-1.
-1.
+要素を非表示にするための宣言は次のどれか？
+1. display: hidden;
+1. display: none;
+1. display: opacity;
+1. display: transparent;
 ### 問題22
-1.
-1.
-1.
-1.
+box-sizing: border-box;について正しい記述はどれか？
+1. widthにpaddingは含まれるがborderは含まれない。
+1. widthにpaddingもborderも含まれない。
+1. widthにpaddingもborderも含まれる。
+1. widthにborderは含まれるがpaddingは含まれない。
 ### 問題23
-1.
-1.
-1.
-1.
+リンクの下線を消すためのプロパティは何か？
+1. link
+1. text-decoration
+1. text-align
+1. underline
 ### 問題24
-1.
-1.
-1.
-1.
+文字の間隔を指定するためのプロパティはどれか？
+1. letter-space
+1. letter-spacing
+1. letter-lead
+1. letter-leading
 ### 問題25
 1.
 1.
