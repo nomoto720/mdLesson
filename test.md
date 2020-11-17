@@ -92,16 +92,64 @@ devというブランチの修正をmasterブランチに取り込むコマン�
 1. git pull origin master
 1. git push
 1. git push -u origin master
+### html問題
 ### 問題16
+連番リストを作るタグの組み合わせとして正しいのはどれか？
+1. li, ul
+1. dl, li
+1. li, ol
+1. dl, dd
 ### 問題17
+リンク先をブラウザの別タブで開くためにaタグにつける属性はどれか？
+1. tab
+1. target
+1. src
+1. origin
 ### 問題18
+サイト内のナビゲーションメニューを示すのに適切なタグはどれか？
+1. navigation
+1. navigator
+1. nav
+1. navi
 ### 問題19
+文書のメインコンテンツとあまり関係のない箇所を示すためのタグはどれか？
+1. sidebar
+1. side 
+1. aside
+1. dsub
 ### 問題20
+次のUI部品を表示するためのタグはどれか？（画像はChromeでの表示です）
+![画像](https://joytas.net/202010/htmllesson/img/ex39.png)
+1. <fieldset>
+1. <select>
+1. <input type="text">
+1. <textarea>
+### html問題
 ### 問題21
+1.
+1.
+1.
+1.
 ### 問題22
+1.
+1.
+1.
+1.
 ### 問題23
+1.
+1.
+1.
+1.
 ### 問題24
+1.
+1.
+1.
+1.
 ### 問題25
+1.
+1.
+1.
+1.
 ### 問題26
 ### 問題27
 ### 問題28
