@@ -3,9 +3,9 @@
 ### 問題01
 今いる場所の隠しファイルを表示するコマンドはどれか？
 1. ls 
-1. ls-li
-1. ls-la
-1. ls-lt
+1. ls -li
+1. ls -la
+1. ls -lt
 ### 問題02
 一つ前にいた場所に戻るコマンドはどれか？
 1. cd ..
@@ -69,7 +69,7 @@ gitの管理下に置くコマンドはどれか？
 1. git clone
 1. git init
 ### 問題12
-最初のコミットと現在の作業フォルダの差分を表示するコマンドはどれか？
+最新のコミットと現在の作業フォルダの差分を表示するコマンドはどれか？
 1. git status
 1. git diff
 1. git log
@@ -81,7 +81,7 @@ test.txtをステージングエリアにあげるコマンドはどれか？
 1. git add test.txt
 1. git add
 ### 問題14
-devというブランチの修正をmasterブランチに取り込むコマンドはどれか？
+masterブランチにいるときdevというブランチの修正をmasterブランチに取り込むコマンドはどれか？
 1. git checkout master
 1. git branch dev
 1. git merge dev
@@ -239,7 +239,7 @@ switch文の条件式として正しいものはどれか？
 1. switch(fortune = 1)
 1. switch(fortune &lt;= 1)
 ### 問題40
-swich文で処理を中断してswich文を抜けさせるときの指示は？
+switch文で処理を中断してswich文を抜けさせるときの指示は？
 1. else;
 1. stop;
 1. break;
@@ -275,29 +275,38 @@ scores配列の3番目の要素を表示する方法として正しいものは�
 1. System.out.print(scores{3});
 1. System.out.print(scores{2});
 ### 問題46
+次のコードで間違っている個所を修正せよ。
 
-1.
-1.
-1.
-1.
+```Test1.java
+public class Test1{
+  public static void main(String[] args){
+    int[] nums={2,3,4,5};
+    for(int i=0;i<5;i++){
+      nums[i]=new java.util.Random().nextInt(5);
+    }
+    System.out.println(nums[2]);
+  }
+}
+
+```
 ### 問題47
-1.
-1.
-1.
-1.
+次のコードで間違っている個所を修正せよ。
+
+```Test2.java
+public class Test2{
+  public static void main(String[] args){
+    int[] scores ={2,3,4,5};
+    int sum = scores[1]+scores[2]+scores[3]+scores[4];
+    System.out.printf("合計は%d点",sum);
+  }
+}
+
+```
 ### 問題48
-1.
-1.
-1.
-1.
+
+
 ### 問題49
-1.
-1.
-1.
-1.
+
 ### 問題50
-1.
-1.
-1.
-1.
+
 
